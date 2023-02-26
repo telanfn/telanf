@@ -77,13 +77,12 @@ h2{
     
 }
 .sectio{
-    padding: 80px 80px;
-    width: 180vh;
-    height: 80vh;
-    background-image: url(../img/bac2.jpg);
+    height: 100vh;
+    background: url(../img/bac2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    
     
 }
 .buttonn{
@@ -109,11 +108,9 @@ h3{
 }
 
 .sec2{
-    padding: 80px 80px;
-    width: 180vh;
-    height: 80vh;
-    background-image: url(../img/bac2.jpg);
-
+    height: 100vh;
+    background: url(../img/bac2.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -187,11 +184,10 @@ h4{
 }
 
 .conect{
-    padding: 80px 80px;
-    width: 180vh;
-    height: 80vh;
-    background-image: url(../img/bac2.jpg);
     
+    height: 100vh;
+    background: url(../img/bac2.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
