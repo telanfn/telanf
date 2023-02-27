@@ -1,3 +1,19 @@
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 998px){
+    
+}
+
+@media screen and (max-width: 768px){
+    
+}
+
+@media screen and (max-width: 576px){
+    
+}
+
 body{
     margin: 0;
     font-family: 'Nunito Sans', sans-serif;
@@ -125,13 +141,7 @@ h3{
     position: relative;
 }
 
-.boxn{
-    width: 300px;
-    height: 60xpx;
-    background-color: white;
-    border-radius: 30px;
 
-}
 
 
 
@@ -143,43 +153,24 @@ h3{
     height: 45px;
     background-color:white;
     border-radius: 40px;
-    left: 35%;
-    transform: translateY( 50);
-    text-align: center;
-    position: relative;
+    margin: 30 auto;
+    text-align: center;   
 }
 
 .qw{
     width: 50;
     height: 45;
     background-color: white;
-    margin:0;
+    margin: 0 100px;
     border-radius: 40px;
     position: absolute;
-    left: 30%;
-    top: 36%;
-}
-
-.qe{
-    width: 50;
-    height: 45;
-    background-color: white;
-    border-radius: 40px;
-    position: absolute;
-    left: 30%;
-    top: 46%;
-}
-
-.qr{
-    width: 50;
-    height: 45;
-    background-color: white;
-    border-radius: 40px;
-    position: absolute;
-    left: 30%;
-    top: 56%;
+    
     
 }
+
+
+
+
 
 .buttonm{
     width: 150px;
@@ -208,7 +199,6 @@ h4{
 }
 
 .conect{
-    
     height: 100vh;
     background: url(../img/bac2.jpg);
     background-repeat: no-repeat;
@@ -216,9 +206,8 @@ h4{
     background-attachment: fixed;
     position: relative;
 }
-
-.buttong{
-    width: 500px;
+.buttonf{
+    width: 450px;
     height: 60px;
     cursor: pointer;
     border: none;
@@ -228,45 +217,44 @@ h4{
     font-size: 24pt;
     border-radius: 30px;
     outline: none;
-    margin: 0;
-    left: 35%;
-    top: 40%;
-    transform: translate(-70 -60);
-    position: absolute;
+    margin: 0 400;
+    align-items:center;
 }
 
-.buttonk{
-    width: 500px;
+.buttonfix{
+    width: 450px;
     height: 60px;
     cursor: pointer;
     border: none;
-    background: white;
+    background:white;
     color: #3e3e3e;
     font-family: 'Nunito Sans', sans-serif;
     font-size: 24pt;
     border-radius: 30px;
     outline: none;
-    margin: 0;
-    left: 35%;
-    top: 55%;
-    transform: translate(-65 -45);
-    position: absolute;
+    margin: 15 50%;
+    transform: translate(-50%);
+    
+    
 }
 
-.imhe{
-    margin: 0;
-    left: 30%;
-    top: 40%;
-    transform: translate(-70 -60);
+.buttonmix{
+    width: 450px;
+    height: 60px;
+    cursor: pointer;
+    border: none;
+    background:white;
+    color: #3e3e3e;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24pt;
+    border-radius: 30px;
+    outline: none;
     position: absolute;
-}
 
-.imh{
-    margin: 0;
-    left: 30%;
+    left: 50%;
     top: 55%;
-    transform: translate(-70 -45);
-    position: absolute;
+    transform: translate(-50%, -45%);
+    
 }
 
 .buttonv{
@@ -289,6 +277,19 @@ h4{
     
 }
 
+.dd{   
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    margin: -10 -155;
+}
+
+.fd{
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    margin: -6 -97;
+}
 
 
 
