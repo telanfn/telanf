@@ -165,9 +165,9 @@ h3{
     border-radius: 40px;
     position: absolute;
     
+
     
 }
-
 
 
 
@@ -206,20 +206,7 @@ h4{
     background-attachment: fixed;
     position: relative;
 }
-.buttonf{
-    width: 450px;
-    height: 60px;
-    cursor: pointer;
-    border: none;
-    background: white;
-    color: #3e3e3e;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 24pt;
-    border-radius: 30px;
-    outline: none;
-    margin: 0 400;
-    align-items:center;
-}
+
 
 .buttonfix{
     width: 450px;
@@ -232,30 +219,13 @@ h4{
     font-size: 24pt;
     border-radius: 30px;
     outline: none;
-    margin: 15 50%;
+    margin: 15 0 0 50%;
     transform: translate(-50%);
     
     
 }
 
-.buttonmix{
-    width: 450px;
-    height: 60px;
-    cursor: pointer;
-    border: none;
-    background:white;
-    color: #3e3e3e;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 24pt;
-    border-radius: 30px;
-    outline: none;
-    position: absolute;
 
-    left: 50%;
-    top: 55%;
-    transform: translate(-50%, -45%);
-    
-}
 
 .buttonv{
     width: 150px;
@@ -272,7 +242,7 @@ h4{
     margin: 0;
     left: 50%;
     top: 85%;
-    transform: translate(-50%, -25%);
+    transform: translate(-50%, -15%);
     
     
 }
